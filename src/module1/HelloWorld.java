@@ -86,6 +86,10 @@ public class HelloWorld extends PApplet
 		map1.draw();
 		map2.draw();
 	}
+	
+	public static void main(String [] args) {
+		System.out.println("testing git commits");
+	}
 
 	
 }
